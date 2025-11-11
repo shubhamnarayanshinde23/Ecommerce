@@ -3,48 +3,48 @@
         "id": 1,
         "name": "Round Neck White T-Shirts",
         "price": "399",
-        "image": "./src/Images/tshirt4.webp"
+        "image": "src/assets/tshirt4.webp"
     },
     {
         "id": 2,
         "name": "Combo T-Shirt",
         "price": "599",
-        "image": "./src/Images/robert-richman-vcTKFYNZop4-unsplash-removebg-preview.png"
+        "image": "src/assets/robert-richman-vcTKFYNZop4-unsplash-removebg-preview.png"
     },
     {
         "id": 3,
         "name": "New Checks T-Shirt",
         "price": "699",
-        "image": "./src/Images/tshirt2.webp"
+        "image": "src/assets/tshirt2.webp"
     },
     {
         "id": 4,
         "name": "Casual T-Shirt",
         "price": "299",
-        "image": "./src/Images/tian-dayong-maHb1ki_X3o-unsplash.jpg"
+        "image": "src/assets/tian-dayong-maHb1ki_X3o-unsplash.jpg"
     },
     {
         "id": 5,
         "name": "Casual Women T-Shirt",
         "price": "499",
-        "image": "./src/Images/women-shirt-removebg-preview.png"
+        "image": "src/assets/women-shirt-removebg-preview.png"
     },
     {
         "id": 6,
         "name": "Casual Women T-Shirt",
         "price": "600",
-        "image": "./src/Images/t-shirt1.webp"
+        "image": "src/assets/t-shirt1.webp"
     },
     {
         "id": 7,
         "name": "Casual T-shirt",
         "price": "299",
-        "image": "./src/Images/tshirt4.webp"
+        "image": "src/assets/tshirt4.webp"
     },
     {
         "id": 8,
         "name": "Casual T-Shirts",
         "price": "899",
-        "image": "./src/Images/shirt2-removebg-preview.png"
+        "image": "src/assets/shirt2-removebg-preview.png"
     }
 ]
